@@ -1,0 +1,31 @@
+.fa{
+    color:rgba(0, 0, 255, 0.808);
+}
+
+a{
+    color: rgba(0, 0, 255, 0.808);
+    text-decoration: none;
+    border-bottom: 1px solid rgba(0, 0, 255, 0.808);
+}
+body{
+    background-color: #eee;
+}
+
+.box-part{
+    background-color: white;
+    padding:60px 0px;
+    margin: 30px 10px;
+    border-radius: 0px;
+}
+
+.text{
+    margin:20px 0px;
+}
+
+span{
+    font-size: 15px;
+}
+
+.box{
+ padding: 60px 0px;
+}
